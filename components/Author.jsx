@@ -1,0 +1,11 @@
+import React from 'react'
+
+const Author = () => {
+    return (
+        <div>
+            <h2>Author</h2>
+        </div>
+    )
+}
+
+export default Author
